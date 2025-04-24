@@ -1,10 +1,10 @@
-# My Markdown Practise
+# My Markdown Practice
 
 Welcome to my practice website! 
 
 ## Introduction
 
-I am currently studying IT engineering, and this is an assignment for my Cloud Services -course.
+I am currently studying IT engineering, and this is an assignment for my Cloud Services course.
 
 ## Work in Progress
 
@@ -23,4 +23,5 @@ Below are some screenshots of my work:
 
 - Started the project and set up the repository.
 - Began adding markdown content.
-- Added screenshot
+- Added a screenshot
+- Corrected grammar
